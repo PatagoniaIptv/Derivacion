@@ -1,5 +1,9 @@
-
-
 #EXTM3U
-#EXTINF:-1 tvg-name="Canales del Mundial" group-title="Listas Derivadas", content-type="playlist", Mundial
-https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Mundial.m3u
+#EXTINF:-1 tvg-name="Flow Opcion 1" group-title="FLOW OPCION 1" content-type="playlist", Flow Opción 1
+https://raw.githubusercontent.com/PatagoniaIptv/Derivacion/refs/heads/main/flow%20op1.m3u
+
+#EXTINF:-1 tvg-name="Flow Opcion 2" group-title="FLOW OPCION 2" content-type="playlist", Flow Opción 2
+https://raw.githubusercontent.com/PatagoniaIptv/Derivacion/refs/heads/main/flow%20op2.m3u
+
+#EXTINF:-1 tvg-name="Sensa Local" group-title="SENSA LOCAL" content-type="playlist", Sensa Local
+https://raw.githubusercontent.com/PatagoniaIptv/Derivacion/refs/heads/main/sensa%20local.m3u
