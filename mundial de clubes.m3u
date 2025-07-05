@@ -1,0 +1,91 @@
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
+#EXTINF:-1 ch-number="141" tvg-id="Eventos.UY" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" group-title="Mundial de Clubes - FIFA", Conect Eventos
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|origin=https://portal.app.flow.com.ar
+
+
+
+
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", FIFA 1
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", DSPORTS 1 
+
+http://38.211.242.128:8001/play/a09s/index.m3u8 
+
+
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", DSPORTS 2
+
+http://38.211.242.128:8001/play/a05g/index.m3u8 
+
+
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", DSPORTS + 
+
+http://38.211.242.128:8001/play/a05h/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title="Mundial de Clubes - FIFA" tvg-name="AR | DIRECTV SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/directvsports2.png" cuid="5501",AR | DIRECTV SPORTS 2 FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
+
+
+#EXTINF:0 group-title="Mundial de Clubes - FIFA" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",DIRECTV
+http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
+
+
+
+
+
+
+
+
+
+#####SALIO DE https://github.com/la22lo/sports/blob/main/futbol.m3u#########
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://200.59.188.3:8000/play/a0xe
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://181.198.67.62:8000/play/a1a6
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://104.238.205.28:8989/278758_.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://38.211.242.128:8001/play/a09s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://179.63.6.17:9000/play/a08e
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 1 🇦🇷 SS
+http://190.102.149.68:1234/play/a1as/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Mundial de Clubes - FIFA", DSPORTS 2 🇦🇷 SS
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+
+
+
